@@ -1,0 +1,8 @@
+*.bin binary
+*.dll binary
+*.sys binary
+*.exe binary
+*.raw binary
+*.DAT binary
+*.dat binary
+*.cat binary
