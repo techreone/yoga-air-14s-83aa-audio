@@ -1,0 +1,16 @@
+Guid(redacted)  Name/State/Form
+endpoint-1  Realtek(R) Audio                         1    3
+endpoint-2  external device                8    5
+endpoint-3  High Definition Audio Device             4    9
+endpoint-4  AMD High Definition Audio Device         4    9
+endpoint-5  external device                8    1
+endpoint-6  High Definition Audio Device     536870916    3
+endpoint-7  AMD High Definition Audio Device         4    9
+endpoint-8  Realtek(R) Audio                         1    1
+endpoint-9  external device                8    3
+endpoint-10  High Definition Audio Device             4    9
+endpoint-11  AMD High Definition Audio Device         1    9
+endpoint-12  AMD High Definition Audio Device         4    9
+endpoint-13  High Definition Audio Device     536870916    1
+endpoint-14  High Definition Audio Device             4    9
+endpoint-15  High Definition Audio Device     536870916    1

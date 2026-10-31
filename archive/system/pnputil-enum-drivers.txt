@@ -1,0 +1,582 @@
+﻿Microsoft PnP Utility
+
+Published Name:     oem4.inf
+Original Name:      amdacpbus.inf
+Provider Name:      AMD
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     03/31/2023 6.0.0.68
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem54.inf
+Original Name:      amddmicext_e.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {66089998-d0c7-46a4-9321-2d6130b548f1}
+Driver Version:     10/18/2022 1.0.0.24
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem10.inf
+Original Name:      amddmicext_e.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {66089998-d0c7-46a4-9321-2d6130b548f1}
+Driver Version:     03/21/2023 1.0.0.25
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem20.inf
+Original Name:      amdfendr.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     05/07/2024 24.20.0.3
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem1.inf
+Original Name:      amdgpio2.inf
+Provider Name:      Advanced Micro Devices, Inc
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     09/15/2022 2.2.0.130
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem36.inf
+Original Name:      amdi2c.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     04/17/2023 1.2.0.121
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem34.inf
+Original Name:      amdinterface.inf
+Provider Name:      Advanced Micro Devices, Inc
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     05/16/2023 2.0.0.12
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem2.inf
+Original Name:      amdmicropep.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     01/10/2023 1.0.40.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem35.inf
+Original Name:      amdppmpf.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     06/14/2023 8.0.0.21
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem37.inf
+Original Name:      amdpsp.inf
+Provider Name:      Advanced Micro Devices Inc.
+Class Name:         SecurityDevices
+Class GUID:         {d94ee5d8-d189-4994-83d2-f68d7d41b0e6}
+Driver Version:     05/12/2023 5.24.0.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem17.inf
+Original Name:      amduw23e.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {07a2a561-d001-4503-b239-ef2fe0379efb}
+Driver Version:     09/29/2024 32.0.11039.4001
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem3.inf
+Original Name:      dax3_ext_rtk.inf
+Provider Name:      Dolby
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {2c0454a3-ab52-4f33-8fd1-21140301103b}
+Driver Version:     03/16/2023 8.317.1015.13
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem41.inf
+Original Name:      elevocapo64ext.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {f8ad342d-16e2-42b7-a8e3-eded26aad9e9}
+Driver Version:     07/11/2023 1.0.2.157
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem56.inf
+Original Name:      elevocapo64ext.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {f8ad342d-16e2-42b7-a8e3-eded26aad9e9}
+Driver Version:     03/17/2023 1.0.2.145
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem48.inf
+Original Name:      hdx_lenovoext_dolby_wrap_elevoc_whisper3.0.inf
+Provider Name:      Realtek Semiconductor Corp.
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {c3a63edd-2d27-4b66-b155-5e94b43d926a}
+Driver Version:     12/13/2022 6.0.9456.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem6.inf
+Original Name:      hdx_lenovoext_dolby_wrap_elevoc_whisper3.0.inf
+Provider Name:      Realtek Semiconductor Corp.
+Class Name:         Extension
+Class GUID:         {e2f84ce7-8efa-411c-aa69-97454ca4cb57}
+Extension ID:       {c3a63edd-2d27-4b66-b155-5e94b43d926a}
+Driver Version:     07/25/2023 6.0.9553.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem40.inf
+Original Name:      kipudrv.inf
+Provider Name:      AMD
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     05/15/2023 10.105.6.45
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem42.inf
+Original Name:      lenovofnandfunctionkeys.inf
+Provider Name:      Lenovo
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     03/21/2024 2.0.12.1718
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem15.inf
+Original Name:      lenovofnandfunctionkeys.inf
+Provider Name:      Lenovo
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     04/25/2023 2.0.6.78
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem14.inf
+Original Name:      lnbits.inf
+Provider Name:      Lenovo
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     04/13/2023 5.0.21.23
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem23.inf
+Original Name:      lnvsst.inf
+Provider Name:      Lenovo
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     04/13/2023 1.0.5.60
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem45.inf
+Original Name:      logi_lamparray_usb.inf
+Provider Name:      Logitech
+Class Name:         USB
+Class GUID:         {36fc9e60-c465-11cf-8056-444553540000}
+Driver Version:     02/27/2026 1.1.84.7627
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+                    Attested
+WHCP Version:       Unknown
+
+Published Name:     oem39.inf
+Original Name:      tas2xxx.inf
+Provider Name:      Texas Instruments
+Class Name:         System
+Class GUID:         {4d36e97d-e325-11ce-bfc1-08002be10318}
+Driver Version:     11/13/2022 1.3.29.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem9.inf
+Original Name:      amdacpafd.inf
+Provider Name:      AMD
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     02/16/2023 6.0.0.40
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem21.inf
+Original Name:      amdocl.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     09/29/2024 32.0.11039.4001
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem22.inf
+Original Name:      amdwin-u0408405.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     09/29/2024 32.0.11039.4001
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem16.inf
+Original Name:      atihdwt6.inf
+Provider Name:      Advanced Micro Devices
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     06/08/2022 10.0.1.24
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem53.inf
+Original Name:      dax3_swc_aposvc.inf
+Provider Name:      Dolby
+Class Name:         AudioProcessingObject
+Class GUID:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Driver Version:     02/14/2023 3.30506.563.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem11.inf
+Original Name:      dax3_swc_aposvc.inf
+Provider Name:      Dolby
+Class Name:         AudioProcessingObject
+Class GUID:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Driver Version:     09/02/2024 3.30704.742.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem8.inf
+Original Name:      dax3_swc_hsa.inf
+Provider Name:      Dolby
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     10/14/2021 3.30201.210.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem55.inf
+Original Name:      elevocapo64.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     03/17/2023 3.0.3.144
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem46.inf
+Original Name:      elevocapo64.inf
+Provider Name:      Elevoc Technology Co.,Ltd
+Class Name:         AudioProcessingObject
+Class GUID:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Driver Version:     08/25/2023 3.0.3.154
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem49.inf
+Original Name:      hdxacplv.inf
+Provider Name:      Realtek Semiconductor Corp.
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     12/13/2022 6.0.9456.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem5.inf
+Original Name:      hdxacplv.inf
+Provider Name:      Realtek Semiconductor Corp.
+Class Name:         MEDIA
+Class GUID:         {4d36e96c-e325-11ce-bfc1-08002be10318}
+Driver Version:     07/25/2023 6.0.9553.1
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem43.inf
+Original Name:      ibtusb.inf
+Provider Name:      Intel Corporation
+Class Name:         Bluetooth
+Class GUID:         {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+Driver Version:     10/18/2024 23.90.0.8
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem38.inf
+Original Name:      lnblcd.inf
+Provider Name:      Lenovo
+Class Name:         Monitor
+Class GUID:         {4d36e96e-e325-11ce-bfc1-08002be10318}
+Driver Version:     02/23/2023 20.22.0.7
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem44.inf
+Original Name:      netwtw6e.inf
+Provider Name:      Intel
+Class Name:         Net
+Class GUID:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Driver Version:     06/12/2025 23.150.0.4
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem0.inf
+Original Name:      prnms009.inf
+Provider Name:      Microsoft
+Class Name:         Printer
+Class GUID:         {4d36e979-e325-11ce-bfc1-08002be10318}
+Class Version:      4.0
+Driver Version:     06/21/2006 10.0.26100.4484
+Signer Name:        Microsoft Windows
+Attributes:         Legacy
+WHCP Version:       Unknown
+
+Published Name:     oem50.inf
+Original Name:      realtekapo.inf
+Provider Name:      Realtek
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     07/26/2022 11.0.6000.1062
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem13.inf
+Original Name:      realtekapo.inf
+Provider Name:      Realtek
+Class Name:         AudioProcessingObject
+Class GUID:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Driver Version:     07/19/2023 13.0.6000.1097
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem51.inf
+Original Name:      realtekhsa.inf
+Provider Name:      Realtek
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     12/06/2022 11.0.6000.288
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem12.inf
+Original Name:      realtekservice.inf
+Provider Name:      Realtek
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     07/24/2023 1.0.631.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem52.inf
+Original Name:      realtekservice.inf
+Provider Name:      Realtek
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     12/13/2022 1.0.588.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem24.inf
+Original Name:      rtleja.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem25.inf
+Original Name:      rtleje.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem26.inf
+Original Name:      rtlejf.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem27.inf
+Original Name:      rtlejfir.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem28.inf
+Original Name:      rtlesha.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem29.inf
+Original Name:      rtleshf.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem30.inf
+Original Name:      rtleshl.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem31.inf
+Original Name:      rtleshs.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem32.inf
+Original Name:      rtleshv.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem33.inf
+Original Name:      rtleslf.inf
+Provider Name:      Realtek
+Class Name:         Camera
+Class GUID:         {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+Driver Version:     08/02/2023 10.0.22000.20291
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem18.inf
+Original Name:      u0408405.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         Display
+Class GUID:         {4d36e968-e325-11ce-bfc1-08002be10318}
+Driver Version:     09/29/2024 32.0.11039.4001
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem19.inf
+Original Name:      uwppair.inf
+Provider Name:      Advanced Micro Devices, Inc.
+Class Name:         SoftwareComponent
+Class GUID:         {5c4c3332-344d-483c-8739-259e934c9cc8}
+Driver Version:     12/01/2023 32.2410.0.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Declarative
+WHCP Version:       Unknown
+
+Published Name:     oem7.inf
+Original Name:      voiceclarityep_audio_component.inf
+Provider Name:      Microsoft Corporation
+Class Name:         AudioProcessingObject
+Class GUID:         {5989fce8-9cd0-467d-8a6a-5419e31529d4}
+Driver Version:     06/16/2026 1.0.4.7057
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+
+Published Name:     oem47.inf
+Original Name:      wintun.inf
+Provider Name:      WireGuard LLC
+Class Name:         Net
+Class GUID:         {4d36e972-e325-11ce-bfc1-08002be10318}
+Driver Version:     10/13/2021 0.14.0.0
+Signer Name:        Microsoft Windows Hardware Compatibility Publisher
+Attributes:         Universal
+WHCP Version:       Unknown
+

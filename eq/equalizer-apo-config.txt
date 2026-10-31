@@ -1,0 +1,14 @@
+# Yoga Air 14s 83AA (EA) built-in 6 speakers - compensation curve
+# Measured with measure.py: bass shelf down ~13 dB below 250 Hz,
+# presence (1.7 kHz) and treble (6.3-10 kHz) up 10-17 dB vs the reference.
+# Apply with Equalizer APO, on the "Speakers (Realtek(R) Audio)" endpoint only.
+#
+# Keep the Windows volume at 70 % or less: above that the TAS2781 limiter
+# eats the bass boost again (measured: +9 dB of boost lost 8.6 dB).
+
+Preamp: -7 dB
+
+Filter: ON LS Fc 220 Hz Gain 8 dB Q 0.7
+Filter: ON PK Fc 1700 Hz Gain -4 dB Q 1.0
+Filter: ON PK Fc 7000 Hz Gain -4 dB Q 0.9
+Filter: ON HS Fc 9000 Hz Gain -2 dB Q 0.7

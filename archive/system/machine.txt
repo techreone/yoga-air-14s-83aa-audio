@@ -1,0 +1,6 @@
+﻿Manufacturer : LENOVO
+Model        : 83AA
+SystemSKU    : LENOVO_MT_83AA_BU_idea_FM_YogaAir 14s APU8
+BIOS         : M6CN45WW (04/30/2026 08:00:00)
+OS           : Microsoft Windows 11 专业版 10.0.26300 build 26300
+Captured     : 2026-10-31T13:05:49

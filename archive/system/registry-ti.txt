@@ -1,0 +1,7 @@
+﻿== HKLM:\SYSTEM\TIUpdateInformation ==
+== HKEY_LOCAL_MACHINE\SYSTEM\TIUpdateInformation\fwUpdateParameter ==
+clockSuppliedByCODEC = Yes
+pathBinaryStrName = \SystemRoot\System32\drivers\TAS2XXX38ba.bin
+lastUpdateFwStatus = Status 0x0
+DownloadTime = 21943134
+== HKLM:\SYSTEM\TISmartAmpCalibration (MISSING) ==

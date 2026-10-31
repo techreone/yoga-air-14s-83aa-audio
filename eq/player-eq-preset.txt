@@ -1,0 +1,19 @@
+# Player EQ preset (no install, no admin needed today)
+#
+# Spotify: Settings > Playback > Equalizer, and use the six bands below.
+# Any other player with a 6-10 band EQ can use the same shape.
+#
+# Measured deficit of the built-in speakers vs the reference speaker:
+#   100-250 Hz  too quiet  -> boost
+#   1.2-2.5 kHz too loud   -> cut
+#   6-10 kHz    too loud   -> cut
+
+60 Hz      +3 dB
+150 Hz     +6 dB
+400 Hz     +2 dB
+1 kHz       0 dB
+2.4 kHz    -3 dB
+15 kHz     -4 dB
+
+# Keep the volume at 70 % or lower for the same reason as the APO preset:
+# the smart-amp limiter removes the bass boost above that point.
